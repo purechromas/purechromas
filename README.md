@@ -24,7 +24,7 @@
        width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"
+  <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png"
        alt="html5"
        width="40" height="40"/>
 </a>
