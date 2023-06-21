@@ -24,7 +24,7 @@
        width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=hKw7Mn8TNTuz&format=png"
+  <img src="[https://img.icons8.com/?size=512&id=hKw7Mn8TNTuz&format=png](https://media.istockphoto.com/id/1412621706/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0-sql-%D0%B2-%D1%81%D1%82%D0%B8%D0%BB%D0%B5-2d-%D0%B4%D0%B8%D1%81%D0%BA-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%BC.jpg?s=612x612&w=0&k=20&c=B6Qki6dVqYuWhTtCvY1Xd_-v4_Mi8hWGKx3ugVbC9_E=)"
        alt="html5"
        width="40" height="40"/>
 </a>
