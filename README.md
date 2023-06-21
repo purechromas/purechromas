@@ -15,7 +15,7 @@
        width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/LCPrD15/sql-server.png"
+  <img src="https://imgtr.ee/images/2023/06/21/ZEgH4.png"
        alt="html5"
        width="40" height="40"/>
 </a>
