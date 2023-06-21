@@ -27,6 +27,7 @@
   <img src="<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=hKw7Mn8TNTuz&format=png"
        alt="html5"
+       width="40" height="40"/>
 </a>
 <h3 align="left">Tools:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
