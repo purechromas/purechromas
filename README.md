@@ -15,7 +15,7 @@
        width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png"
+  <img src="https://ibb.co/Xz4Dft8"
        alt="html5"
        width="40" height="40"/>
 </a>
