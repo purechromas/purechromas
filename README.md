@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **purechromas@gmail.com**
 
-![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=purechromas" />
+    </a>
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
