@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **purechromas@gmail.com**
 
+![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
 
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
@@ -57,6 +58,3 @@
        width="40" height="40"/>
 </a>
 
-
-
-![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
