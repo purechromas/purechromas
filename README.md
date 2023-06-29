@@ -57,4 +57,4 @@
        width="40" height="40"/>
 </a>
 
-https://github.r2v.ch/codewars?user=purechromas
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=purechromas)
