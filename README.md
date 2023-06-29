@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **purechromas@gmail.com**
 
-![Codewars](https://github.r2v.ch/codewars?user=purechromas)
-
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
