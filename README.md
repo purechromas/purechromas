@@ -48,7 +48,7 @@
        alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" alt="linux"
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="linux"
        width="40"
        height="40"/>
 <h3 align="left">Frameworks:</h3>
