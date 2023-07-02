@@ -56,5 +56,5 @@
        width="40" height="40"/>
 </a>
 <br>
-<br>
+
 ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
