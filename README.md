@@ -47,6 +47,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
        alt="bootstrap" width="40" height="40"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" alt="linux"
+       width="40"
+       height="40"/>
 <h3 align="left">Frameworks:</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
