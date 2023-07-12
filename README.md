@@ -43,10 +43,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-       alt="bootstrap" width="40" height="40"/>
-</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="linux"
        width="40"
@@ -58,6 +54,10 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="flask"
        width="40" height="40"/>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+       alt="bootstrap" width="40" height="40"/>
+ </a>
 </a>
 <br>
 
