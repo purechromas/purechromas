@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purechromas&label=Profile%20views&color=0e75b6&style=flat" alt="purechromas" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/purechromas?tab=repositories](https://github.com/purechromas?tab=repositories)
-
 - 📫 How to reach me **purechromas@gmail.com**
 
 <h3 align="left">Languages:</h3>
