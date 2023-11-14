@@ -6,6 +6,7 @@
 - 📫 How to reach me:
 <br>
 <p align="left">
+  purechromas@gmail.com
   <a href="https://t.me/purechromas">
     <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
   </a>
@@ -14,7 +15,6 @@
   </a>
   <a href="mailto:purechromas@gmail.com">
     <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
-    purechromas@gmail.com
   </a>
 </p>
 
@@ -85,4 +85,5 @@
 
 <br>
 <br>
+
 ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
