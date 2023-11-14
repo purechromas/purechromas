@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Blagovest Nedkov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria living in Russia/Ekaterinburg</h3>
 
+<p align="left">
+  ![Profile Views](https://komarev.com/ghpvc/?username=purechromas&color=green)
+</p>
+
 - 📫 How to reach me:
 <br>
 <a href="mailto:purechromas@gmail.com" style="vertical-align:middle;">
