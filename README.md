@@ -13,7 +13,9 @@
     <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
   </a>
   <a href="mailto:purechromas@gmail.com">
-    <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;"></a> purechromas@gmail.com
+    <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
+    purechromas@gmail.com
+  </a>
 </p>
 
 
@@ -80,6 +82,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/ZKYXQ4H/github.png" alt="GitHub" border="0" />
 </a>
-<br>
 
+<br>
+<br>
 ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
