@@ -1,62 +1,85 @@
 <h1 align="center">Hi 👋, I'm Blagovest Nedkov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria living in Russia/Ekaterinburg</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purechromas&label=Profile%20views&color=0e75b6&style=flat" alt="purechromas" /> </p>
-
-- 📫 How to reach me **purechromas@gmail.com**
+- 📫 How to reach me:
+<br>
+<a href="mailto:purechromas@gmail.com" style="vertical-align:middle;">
+  <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
+  purechromas@gmail.com
+</a>
+<br>
+<a href="https://t.me/purechromas" style="vertical-align:middle;">
+  <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
+  https://t.me/purechromas
+</a>
+<br>
+<a href="https://www.linkedin.com/in/blagovest-nedkov-635b33267/" style="vertical-align:middle;">
+  <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
+  https://www.linkedin.com/in/blagovest-nedkov-635b33267/
+</a>
 
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-       width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/02xRrh2/python.png" alt="python" border="0" />
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/5Gzd6WC/pngwing-com.png"
-       alt="html5"
-       width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-       alt="html5"
-       width="40" height="40"/>
+  <img src="https://i.ibb.co/n868w30/sql.png" alt="sql" border="0" />
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-       width="40" height="40"/>
+  <img src="https://i.ibb.co/2j1M7qk/css.png" alt="css" border="0" />
 </a>
-<h3 align="left">Tools:</h3>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-       width="40"
-       height="40"/>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/JvxhmDG/html.png" alt="HTML" border="0" />
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+<h3 align="left">Frameworks:</h3>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/197SFJF/fastapi.png" alt="FastAPI" border="0" />
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-       alt="docker" width="40" height="40"/>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/6BKjqkV/django.png" alt="Django" border="0" />
+</a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/q02dxsR/pngwing-com.png" alt="Flask" border="0" />
+</a>
+
+<h3 align="left">Databases:</h3>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/Tqf7Hkt/mongodb.png" alt="MongoDB" border="0" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="linux"
-       width="40"
-       height="40"/>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://i.ibb.co/680btV1/postgresql.png" alt="PostgreSQL" border="0" />
 </a>
-<h3 align="left">Frameworks:</h3>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/1ZhKMvL/redis.png" alt="Redis" border="0" />
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="flask"
-       width="40" height="40"/>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-       alt="bootstrap" width="40" height="40"/>
- </a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/9qs0Rrd/sqlite.png" alt="SQLite" border="0" />
 </a>
-<br>
+
+<h3 align="left">Tools:</h3>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/DQqDbxX/linux.png" alt="Linux" border="0" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/Wg6gnfp/docker.png" alt="Docker" border="0" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/VCSCs5f/git.png" alt="Git" border="0" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/pfHh28H/bootstrap.png" alt="Bootstrap" border="0" />
+</a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/Ln3K8Gh/nginx.png" alt="Nginx" border="0" />
+</a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/02xfK0r/gitlab.png" alt="GitLab" border="0" />
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/ZKYXQ4H/github.png" alt="GitHub" border="0" />
+</a>
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
