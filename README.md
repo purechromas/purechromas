@@ -5,20 +5,23 @@
 
 - 📫 How to reach me:
 <br>
-<a href="mailto:purechromas@gmail.com" style="vertical-align:middle;">
-  <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
-  purechromas@gmail.com
-</a>
-<br>
-<a href="https://t.me/purechromas" style="vertical-align:middle;">
-  <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
-  https://t.me/purechromas
-</a>
-<br>
-<a href="https://www.linkedin.com/in/blagovest-nedkov-635b33267/" style="vertical-align:middle;">
-  <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
-  https://www.linkedin.com/in/blagovest-nedkov-635b33267/
-</a>
+<p align="left">
+  <a href="mailto:purechromas@gmail.com">
+    <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
+    purechromas@gmail.com
+  </a>
+</p>
+<p align="left">
+  <a href="https://t.me/purechromas">
+    <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/blagovest-nedkov-635b33267/">
+    <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
+  </a>
+</p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
@@ -82,6 +85,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/ZKYXQ4H/github.png" alt="GitHub" border="0" />
 </a>
-
+<br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
