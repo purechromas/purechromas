@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Blagovest Nedkov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria living in Russia/Ekaterinburg</h3>
 
-https://camo.githubusercontent.com/02f71c8de60c9e8e1185e0e0d53366958ef643d4385e4c7b5a6367b06aeda6a6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d707572656368726f6d6173266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+![Profile Views](https://komarev.com/ghpvc/?username=purechromas&color=green)
+
 
 - 📫 How to reach me:
 <br>
