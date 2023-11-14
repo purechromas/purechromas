@@ -10,6 +10,7 @@
   <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
   purechromas@gmail.com
 </a>
+<br>
 <a href="https://t.me/purechromas" style="vertical-align:middle;">
   <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
   https://t.me/purechromas
