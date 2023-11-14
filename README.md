@@ -13,10 +13,8 @@
     <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
   </a>
   <a href="mailto:purechromas@gmail.com">
-    <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
-  </a>
+    <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;"></a> purechromas@gmail.com
 </p>
-<p align="left">purechromas@gmail.com</p>
 
 
 
