@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Blagovest Nedkov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria living in Russia/Ekaterinburg</h3>
 
+https://camo.githubusercontent.com/02f71c8de60c9e8e1185e0e0d53366958ef643d4385e4c7b5a6367b06aeda6a6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d707572656368726f6d6173266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+
 - 📫 How to reach me:
 <br>
 <a href="mailto:purechromas@gmail.com" style="vertical-align:middle;">
   <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
   purechromas@gmail.com
 </a>
-<br>
 <a href="https://t.me/purechromas" style="vertical-align:middle;">
   <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
   https://t.me/purechromas
