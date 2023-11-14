@@ -6,7 +6,6 @@
 - 📫 How to reach me:
 <br>
 <p align="left">
-  purechromas@gmail.com
   <a href="https://t.me/purechromas">
     <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
   </a>
