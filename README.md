@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Blagovest Nedkov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria living in Russia/Ekaterinburg</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=purechromas&color=green)
+<br>
 
 - 📫 How to reach me:
-<br>
+
 <p align="left">
   <a href="https://t.me/purechromas">
     <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
@@ -88,4 +88,5 @@
 <br>
 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=purechromas&color=green)
 ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
