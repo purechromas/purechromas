@@ -42,7 +42,7 @@
   <img src="https://i.ibb.co/6BKjqkV/django.png" alt="Django" border="0" />
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/WPghx5v/icons8-flask-48.png" alt="Flask" border="0" />
+  <img src="https://i.ibb.co/qxjm9LV/icons8-flask-48.png" alt="Flask" border="0" />
 </a>
 
 <h3 align="left">Databases:</h3>
