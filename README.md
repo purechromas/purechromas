@@ -85,6 +85,7 @@
   <a href="mailto:purechromas@gmail.com">
     <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
   </a>
+![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
+
