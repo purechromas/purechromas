@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Blagovest Nedkov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria living in Russia/Ekaterinburg</h3>
 
-<br>
-
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
