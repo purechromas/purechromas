@@ -45,6 +45,7 @@
   <img src="https://i.ibb.co/qxjm9LV/icons8-flask-48.png" alt="Flask" border="0" />
 </a>
 
+
 <h3 align="left">Databases:</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/Tqf7Hkt/mongodb.png" alt="MongoDB" border="0" />
@@ -63,25 +64,27 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/DQqDbxX/linux.png" alt="Linux" border="0" />
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/Wg6gnfp/docker.png" alt="Docker" border="0" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/VCSCs5f/git.png" alt="Git" border="0" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/pfHh28H/bootstrap.png" alt="Bootstrap" border="0" />
-</a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/Ln3K8Gh/nginx.png" alt="Nginx" border="0" />
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/ZKYXQ4H/github.png" alt="GitHub" border="0" />
 </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/02xfK0r/gitlab.png" alt="GitLab" border="0" />
 </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/ZKYXQ4H/github.png" alt="GitHub" border="0" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/VCSCs5f/git.png" alt="Git" border="0" />
 </a>
 
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/Ln3K8Gh/nginx.png" alt="Nginx" border="0" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/Wg6gnfp/docker.png" alt="Docker" border="0" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/pfHh28H/bootstrap.png" alt="Bootstrap" border="0" />
+</a>
 <br>
 <br>
 
