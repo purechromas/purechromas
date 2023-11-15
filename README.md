@@ -73,19 +73,24 @@
 <br>
 <br>
 
-- 📫 How to reach me:
-
-<p align="left">
-  <a href="https://t.me/purechromas">
-    <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
-  </a>
-  <a href="https://www.linkedin.com/in/blagovest-nedkov-635b33267/">
-    <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
-  </a>
-  <a href="mailto:purechromas@gmail.com">
-    <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
-  </a>
-![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    - 📫 How to reach me:
+    <p align="left">
+      <a href="https://t.me/purechromas">
+        <img src="https://i.ibb.co/r2PpLjH/telegram.png" alt="Telegram" border="0" style="vertical-align:middle;">
+      </a>
+      <a href="https://www.linkedin.com/in/blagovest-nedkov-635b33267/">
+        <img src="https://i.ibb.co/T0tBh1Z/linkedin.png" alt="LinkedIn" border="0" style="vertical-align:middle;">
+      </a>
+      <a href="mailto:purechromas@gmail.com">
+        <img src="https://i.ibb.co/S7mYH5t/gmail.png" alt="Gmail" border="0" style="vertical-align:middle;">
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    ![Codewars](https://github.r2v.ch/codewars?user=purechromas&theme=gradient)
+  </div>
+</div>
 
 
