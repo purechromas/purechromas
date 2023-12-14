@@ -35,7 +35,7 @@
   <img src="https://i.ibb.co/Tqf7Hkt/mongodb.png" alt="MongoDB" border="0" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://i.ibb.co/680btV1/postgresql.png" alt="PostgreSQL" border="0" />
+  <img src="https://i.ibb.co/RBX71fr/postgresql-original-wordmark-logo-icon-146392.png" alt="PostgreSQL" border="0" />
 </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
   <img src="https://i.ibb.co/1ZhKMvL/redis.png" alt="Redis" border="0" />
